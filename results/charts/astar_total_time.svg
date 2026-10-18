@@ -1,0 +1,141 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1225" viewBox="0 0 1000 1225">
+<rect width="100%" height="100%" fill="#fafbfd"/>
+<text x="28" y="35" fill="#263445" font-size="22" text-anchor="start" font-family="Arial, sans-serif">A*: total time including heuristic preprocessing (larger g first)</text>
+<text x="28" y="62" fill="#263445" font-size="13" text-anchor="start" font-family="Arial, sans-serif">Independent scale per scenario. us; timing whiskers = 25th-75th percentile.</text>
+<text x="28" y="100" fill="#263445" font-size="16" text-anchor="start" font-family="Arial, sans-serif">pdf_maze</text>
+<text x="870" y="100" fill="#263445" font-size="11" text-anchor="end" font-family="Arial, sans-serif">panel max: 83.5 us</text>
+<text x="253" y="134" fill="#263445" font-size="12" text-anchor="end" font-family="Arial, sans-serif">zero</text>
+<rect x="265" y="118" width="605" height="22" fill="#e8edf2"/>
+<rect x="265" y="118" width="318.822" height="22" fill="#53799d"><title>zero: 43.97714285714285</title></rect>
+<path d="M 536.85,129 H 657.35 M 536.85,124 V 134 M 657.35,124 V 134" stroke="#172536" stroke-width="1.5"/>
+<text x="882" y="134" fill="#263445" font-size="12" text-anchor="start" font-family="Arial, sans-serif">43.98</text>
+<text x="253" y="164" fill="#263445" font-size="12" text-anchor="end" font-family="Arial, sans-serif">manhattan</text>
+<rect x="265" y="148" width="605" height="22" fill="#e8edf2"/>
+<rect x="265" y="148" width="283.945" height="22" fill="#178575"><title>manhattan: 39.166228070175436</title></rect>
+<path d="M 480.11,159 H 590.93 M 480.11,154 V 164 M 590.93,154 V 164" stroke="#172536" stroke-width="1.5"/>
+<text x="882" y="164" fill="#263445" font-size="12" text-anchor="start" font-family="Arial, sans-serif">39.17</text>
+<text x="253" y="194" fill="#263445" font-size="12" text-anchor="end" font-family="Arial, sans-serif">relaxed</text>
+<rect x="265" y="178" width="605" height="22" fill="#e8edf2"/>
+<rect x="265" y="178" width="587.527" height="22" fill="#df8844"><title>relaxed: 81.04128440366972</title></rect>
+<path d="M 750.79,189 H 870.00 M 750.79,184 V 194 M 870.00,184 V 194" stroke="#172536" stroke-width="1.5"/>
+<text x="882" y="194" fill="#263445" font-size="12" text-anchor="start" font-family="Arial, sans-serif">81.04</text>
+<text x="28" y="240" fill="#263445" font-size="16" text-anchor="start" font-family="Arial, sans-serif">pdf_weighted</text>
+<text x="870" y="240" fill="#263445" font-size="11" text-anchor="end" font-family="Arial, sans-serif">panel max: 107.0 us</text>
+<text x="253" y="274" fill="#263445" font-size="12" text-anchor="end" font-family="Arial, sans-serif">zero</text>
+<rect x="265" y="258" width="605" height="22" fill="#e8edf2"/>
+<rect x="265" y="258" width="300.058" height="22" fill="#53799d"><title>zero: 53.06909090909091</title></rect>
+<path d="M 439.79,269 H 651.48 M 439.79,264 V 274 M 651.48,264 V 274" stroke="#172536" stroke-width="1.5"/>
+<text x="882" y="274" fill="#263445" font-size="12" text-anchor="start" font-family="Arial, sans-serif">53.07</text>
+<text x="253" y="304" fill="#263445" font-size="12" text-anchor="end" font-family="Arial, sans-serif">manhattan</text>
+<rect x="265" y="288" width="605" height="22" fill="#e8edf2"/>
+<rect x="265" y="288" width="357.372" height="22" fill="#178575"><title>manhattan: 63.20582524271845</title></rect>
+<path d="M 554.16,299 H 714.43 M 554.16,294 V 304 M 714.43,294 V 304" stroke="#172536" stroke-width="1.5"/>
+<text x="882" y="304" fill="#263445" font-size="12" text-anchor="start" font-family="Arial, sans-serif">63.21</text>
+<text x="253" y="334" fill="#263445" font-size="12" text-anchor="end" font-family="Arial, sans-serif">relaxed</text>
+<rect x="265" y="318" width="605" height="22" fill="#e8edf2"/>
+<rect x="265" y="318" width="492.117" height="22" fill="#df8844"><title>relaxed: 87.0372340425532</title></rect>
+<path d="M 648.43,329 H 870.00 M 648.43,324 V 334 M 870.00,324 V 334" stroke="#172536" stroke-width="1.5"/>
+<text x="882" y="334" fill="#263445" font-size="12" text-anchor="start" font-family="Arial, sans-serif">87.04</text>
+<text x="28" y="380" fill="#263445" font-size="16" text-anchor="start" font-family="Arial, sans-serif">open_40</text>
+<text x="870" y="380" fill="#263445" font-size="11" text-anchor="end" font-family="Arial, sans-serif">panel max: 6,101.7 us</text>
+<text x="253" y="414" fill="#263445" font-size="12" text-anchor="end" font-family="Arial, sans-serif">zero</text>
+<rect x="265" y="398" width="605" height="22" fill="#e8edf2"/>
+<rect x="265" y="398" width="471.317" height="22" fill="#53799d"><title>zero: 4753.45</title></rect>
+<path d="M 649.79,409 H 870.00 M 649.79,404 V 414 M 870.00,404 V 414" stroke="#172536" stroke-width="1.5"/>
+<text x="882" y="414" fill="#263445" font-size="12" text-anchor="start" font-family="Arial, sans-serif">4,753.45</text>
+<text x="253" y="444" fill="#263445" font-size="12" text-anchor="end" font-family="Arial, sans-serif">manhattan</text>
+<rect x="265" y="428" width="605" height="22" fill="#e8edf2"/>
+<rect x="265" y="428" width="73.481" height="22" fill="#178575"><title>manhattan: 741.0916666666666</title></rect>
+<path d="M 319.93,439 H 365.16 M 319.93,434 V 444 M 365.16,434 V 444" stroke="#172536" stroke-width="1.5"/>
+<text x="882" y="444" fill="#263445" font-size="12" text-anchor="start" font-family="Arial, sans-serif">741.09</text>
+<text x="253" y="474" fill="#263445" font-size="12" text-anchor="end" font-family="Arial, sans-serif">relaxed</text>
+<rect x="265" y="458" width="605" height="22" fill="#e8edf2"/>
+<rect x="265" y="458" width="362.664" height="22" fill="#df8844"><title>relaxed: 3657.6333333333337</title></rect>
+<path d="M 608.00,469 H 661.02 M 608.00,464 V 474 M 661.02,464 V 474" stroke="#172536" stroke-width="1.5"/>
+<text x="882" y="474" fill="#263445" font-size="12" text-anchor="start" font-family="Arial, sans-serif">3,657.63</text>
+<text x="28" y="520" fill="#263445" font-size="16" text-anchor="start" font-family="Arial, sans-serif">walls_40</text>
+<text x="870" y="520" fill="#263445" font-size="11" text-anchor="end" font-family="Arial, sans-serif">panel max: 4,535.7 us</text>
+<text x="253" y="554" fill="#263445" font-size="12" text-anchor="end" font-family="Arial, sans-serif">zero</text>
+<rect x="265" y="538" width="605" height="22" fill="#e8edf2"/>
+<rect x="265" y="538" width="475.342" height="22" fill="#53799d"><title>zero: 3563.6666666666665</title></rect>
+<path d="M 712.35,549 H 870.00 M 712.35,544 V 554 M 870.00,544 V 554" stroke="#172536" stroke-width="1.5"/>
+<text x="882" y="554" fill="#263445" font-size="12" text-anchor="start" font-family="Arial, sans-serif">3,563.67</text>
+<text x="253" y="584" fill="#263445" font-size="12" text-anchor="end" font-family="Arial, sans-serif">manhattan</text>
+<rect x="265" y="568" width="605" height="22" fill="#e8edf2"/>
+<rect x="265" y="568" width="94.602" height="22" fill="#178575"><title>manhattan: 709.2333333333333</title></rect>
+<path d="M 349.57,579 H 374.89 M 349.57,574 V 584 M 374.89,574 V 584" stroke="#172536" stroke-width="1.5"/>
+<text x="882" y="584" fill="#263445" font-size="12" text-anchor="start" font-family="Arial, sans-serif">709.23</text>
+<text x="253" y="614" fill="#263445" font-size="12" text-anchor="end" font-family="Arial, sans-serif">relaxed</text>
+<rect x="265" y="598" width="605" height="22" fill="#e8edf2"/>
+<rect x="265" y="598" width="450.497" height="22" fill="#df8844"><title>relaxed: 3377.4</title></rect>
+<path d="M 657.89,609 H 731.02 M 657.89,604 V 614 M 731.02,604 V 614" stroke="#172536" stroke-width="1.5"/>
+<text x="882" y="614" fill="#263445" font-size="12" text-anchor="start" font-family="Arial, sans-serif">3,377.40</text>
+<text x="28" y="660" fill="#263445" font-size="16" text-anchor="start" font-family="Arial, sans-serif">terrain_35</text>
+<text x="870" y="660" fill="#263445" font-size="11" text-anchor="end" font-family="Arial, sans-serif">panel max: 6,666.2 us</text>
+<text x="253" y="694" fill="#263445" font-size="12" text-anchor="end" font-family="Arial, sans-serif">zero</text>
+<rect x="265" y="678" width="605" height="22" fill="#e8edf2"/>
+<rect x="265" y="678" width="303.436" height="22" fill="#53799d"><title>zero: 3343.4333333333334</title></rect>
+<path d="M 523.15,689 H 647.47 M 523.15,684 V 694 M 647.47,684 V 694" stroke="#172536" stroke-width="1.5"/>
+<text x="882" y="694" fill="#263445" font-size="12" text-anchor="start" font-family="Arial, sans-serif">3,343.43</text>
+<text x="253" y="724" fill="#263445" font-size="12" text-anchor="end" font-family="Arial, sans-serif">manhattan</text>
+<rect x="265" y="708" width="605" height="22" fill="#e8edf2"/>
+<rect x="265" y="708" width="368.226" height="22" fill="#178575"><title>manhattan: 4057.3333333333335</title></rect>
+<path d="M 518.96,719 H 662.74 M 518.96,714 V 724 M 662.74,714 V 724" stroke="#172536" stroke-width="1.5"/>
+<text x="882" y="724" fill="#263445" font-size="12" text-anchor="start" font-family="Arial, sans-serif">4,057.33</text>
+<text x="253" y="754" fill="#263445" font-size="12" text-anchor="end" font-family="Arial, sans-serif">relaxed</text>
+<rect x="265" y="738" width="605" height="22" fill="#e8edf2"/>
+<rect x="265" y="738" width="477.788" height="22" fill="#df8844"><title>relaxed: 5264.55</title></rect>
+<path d="M 662.52,749 H 870.00 M 662.52,744 V 754 M 870.00,744 V 754" stroke="#172536" stroke-width="1.5"/>
+<text x="882" y="754" fill="#263445" font-size="12" text-anchor="start" font-family="Arial, sans-serif">5,264.55</text>
+<text x="28" y="800" fill="#263445" font-size="16" text-anchor="start" font-family="Arial, sans-serif">cost_detour</text>
+<text x="870" y="800" fill="#263445" font-size="11" text-anchor="end" font-family="Arial, sans-serif">panel max: 46.5 us</text>
+<text x="253" y="834" fill="#263445" font-size="12" text-anchor="end" font-family="Arial, sans-serif">zero</text>
+<rect x="265" y="818" width="605" height="22" fill="#e8edf2"/>
+<rect x="265" y="818" width="321.062" height="22" fill="#53799d"><title>zero: 24.70062695924765</title></rect>
+<path d="M 473.05,829 H 607.57 M 473.05,824 V 834 M 607.57,824 V 834" stroke="#172536" stroke-width="1.5"/>
+<text x="882" y="834" fill="#263445" font-size="12" text-anchor="start" font-family="Arial, sans-serif">24.70</text>
+<text x="253" y="864" fill="#263445" font-size="12" text-anchor="end" font-family="Arial, sans-serif">manhattan</text>
+<rect x="265" y="848" width="605" height="22" fill="#e8edf2"/>
+<rect x="265" y="848" width="360.862" height="22" fill="#178575"><title>manhattan: 27.762589928057555</title></rect>
+<path d="M 567.75,859 H 647.66 M 567.75,854 V 864 M 647.66,854 V 864" stroke="#172536" stroke-width="1.5"/>
+<text x="882" y="864" fill="#263445" font-size="12" text-anchor="start" font-family="Arial, sans-serif">27.76</text>
+<text x="253" y="894" fill="#263445" font-size="12" text-anchor="end" font-family="Arial, sans-serif">relaxed</text>
+<rect x="265" y="878" width="605" height="22" fill="#e8edf2"/>
+<rect x="265" y="878" width="540.645" height="22" fill="#df8844"><title>relaxed: 41.59411764705882</title></rect>
+<path d="M 609.67,889 H 870.00 M 609.67,884 V 894 M 870.00,884 V 894" stroke="#172536" stroke-width="1.5"/>
+<text x="882" y="894" fill="#263445" font-size="12" text-anchor="start" font-family="Arial, sans-serif">41.59</text>
+<text x="28" y="940" fill="#263445" font-size="16" text-anchor="start" font-family="Arial, sans-serif">zero_cells</text>
+<text x="870" y="940" fill="#263445" font-size="11" text-anchor="end" font-family="Arial, sans-serif">panel max: 65.6 us</text>
+<text x="253" y="974" fill="#263445" font-size="12" text-anchor="end" font-family="Arial, sans-serif">zero</text>
+<rect x="265" y="958" width="605" height="22" fill="#e8edf2"/>
+<rect x="265" y="958" width="244.379" height="22" fill="#53799d"><title>zero: 26.48090277777778</title></rect>
+<path d="M 429.09,969 H 607.86 M 429.09,964 V 974 M 607.86,964 V 974" stroke="#172536" stroke-width="1.5"/>
+<text x="882" y="974" fill="#263445" font-size="12" text-anchor="start" font-family="Arial, sans-serif">26.48</text>
+<text x="253" y="1004" fill="#263445" font-size="12" text-anchor="end" font-family="Arial, sans-serif">manhattan</text>
+<rect x="265" y="988" width="605" height="22" fill="#e8edf2"/>
+<rect x="265" y="988" width="394.108" height="22" fill="#178575"><title>manhattan: 42.70542986425339</title></rect>
+<path d="M 556.19,999 H 707.97 M 556.19,994 V 1004 M 707.97,994 V 1004" stroke="#172536" stroke-width="1.5"/>
+<text x="882" y="1004" fill="#263445" font-size="12" text-anchor="start" font-family="Arial, sans-serif">42.71</text>
+<text x="253" y="1034" fill="#263445" font-size="12" text-anchor="end" font-family="Arial, sans-serif">relaxed</text>
+<rect x="265" y="1018" width="605" height="22" fill="#e8edf2"/>
+<rect x="265" y="1018" width="539.956" height="22" fill="#df8844"><title>relaxed: 58.50948905109489</title></rect>
+<path d="M 633.71,1029 H 870.00 M 633.71,1024 V 1034 M 870.00,1024 V 1034" stroke="#172536" stroke-width="1.5"/>
+<text x="882" y="1034" fill="#263445" font-size="12" text-anchor="start" font-family="Arial, sans-serif">58.51</text>
+<text x="28" y="1080" fill="#263445" font-size="16" text-anchor="start" font-family="Arial, sans-serif">no_solution</text>
+<text x="870" y="1080" fill="#263445" font-size="11" text-anchor="end" font-family="Arial, sans-serif">panel max: 2,026.0 us</text>
+<text x="253" y="1114" fill="#263445" font-size="12" text-anchor="end" font-family="Arial, sans-serif">zero</text>
+<rect x="265" y="1098" width="605" height="22" fill="#e8edf2"/>
+<rect x="265" y="1098" width="181.864" height="22" fill="#53799d"><title>zero: 609.0333333333334</title></rect>
+<path d="M 413.75,1109 H 465.64 M 413.75,1104 V 1114 M 465.64,1104 V 1114" stroke="#172536" stroke-width="1.5"/>
+<text x="882" y="1114" fill="#263445" font-size="12" text-anchor="start" font-family="Arial, sans-serif">609.03</text>
+<text x="253" y="1144" fill="#263445" font-size="12" text-anchor="end" font-family="Arial, sans-serif">manhattan</text>
+<rect x="265" y="1128" width="605" height="22" fill="#e8edf2"/>
+<rect x="265" y="1128" width="330.794" height="22" fill="#178575"><title>manhattan: 1107.7777777777778</title></rect>
+<path d="M 466.83,1139 H 685.65 M 466.83,1134 V 1144 M 685.65,1134 V 1144" stroke="#172536" stroke-width="1.5"/>
+<text x="882" y="1144" fill="#263445" font-size="12" text-anchor="start" font-family="Arial, sans-serif">1,107.78</text>
+<text x="253" y="1174" fill="#263445" font-size="12" text-anchor="end" font-family="Arial, sans-serif">relaxed</text>
+<rect x="265" y="1158" width="605" height="22" fill="#e8edf2"/>
+<rect x="265" y="1158" width="566.966" height="22" fill="#df8844"><title>relaxed: 1898.68</title></rect>
+<path d="M 715.68,1169 H 870.00 M 715.68,1164 V 1174 M 870.00,1164 V 1174" stroke="#172536" stroke-width="1.5"/>
+<text x="882" y="1174" fill="#263445" font-size="12" text-anchor="start" font-family="Arial, sans-serif">1,898.68</text>
+</svg>

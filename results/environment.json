@@ -1,0 +1,47 @@
+{
+  "timestamp_asia_shanghai": "2026-10-15T11:17:54.740870+08:00",
+  "python": "3.13.7 (tags/v3.13.7:bcee1c3, Aug 14 2025, 14:15:11) [MSC v.1944 64 bit (AMD64)]",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "processor": "",
+  "machine": "",
+  "clock": {
+    "implementation": "QueryPerformanceCounter()",
+    "resolution_seconds": 1e-07,
+    "monotonic": true
+  },
+  "config": {
+    "seed": 20261015,
+    "repeats": 11,
+    "warmups": 2,
+    "target_batch_ms": 5,
+    "max_batch_iterations": 1000,
+    "heuristics": [
+      "zero",
+      "manhattan",
+      "relaxed"
+    ],
+    "tie_breaks": [
+      "fifo",
+      "larger_g",
+      "smaller_g"
+    ],
+    "orders": [
+      "original",
+      "reverse",
+      "heuristic"
+    ],
+    "game_depths": [
+      2,
+      4
+    ]
+  },
+  "method": {
+    "input_construction_timed": false,
+    "distance_precompute_timed_in_game": false,
+    "heuristic_preprocessing_in_total": true,
+    "ordering_in_search_time": true,
+    "gc": "Python 默认开启；所有配置一致",
+    "shuffle_seed": "seed+trial",
+    "nanoseconds": "每个批量重复的平均单次耗时；总耗时包含调用和记录计时的开销"
+  }
+}

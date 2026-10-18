@@ -1,0 +1,1778 @@
+[
+  {
+    "from_index": 0,
+    "to_index": 0,
+    "cost": 0,
+    "path": [
+      [
+        0,
+        0
+      ]
+    ],
+    "metrics": {
+      "expanded_nodes": 0,
+      "generated_nodes": 1,
+      "heap_pops": 1,
+      "stale_pops": 0,
+      "reopened_nodes": 0,
+      "frontier_peak": 1,
+      "recursive_visits": 0,
+      "leaf_evaluations": 0,
+      "cutoffs": 0,
+      "pruned_children": 0,
+      "ordering_probes": 0
+    }
+  },
+  {
+    "from_index": 0,
+    "to_index": 1,
+    "cost": 12,
+    "path": [
+      [
+        0,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        2,
+        0
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        2
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        5
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        4,
+        6
+      ],
+      [
+        5,
+        6
+      ],
+      [
+        6,
+        6
+      ]
+    ],
+    "metrics": {
+      "expanded_nodes": 15,
+      "generated_nodes": 22,
+      "heap_pops": 16,
+      "stale_pops": 0,
+      "reopened_nodes": 0,
+      "frontier_peak": 7,
+      "recursive_visits": 0,
+      "leaf_evaluations": 0,
+      "cutoffs": 0,
+      "pruned_children": 0,
+      "ordering_probes": 0
+    }
+  },
+  {
+    "from_index": 0,
+    "to_index": 2,
+    "cost": 10,
+    "path": [
+      [
+        0,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        2,
+        0
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        2
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        2,
+        6
+      ],
+      [
+        1,
+        6
+      ],
+      [
+        0,
+        6
+      ]
+    ],
+    "metrics": {
+      "expanded_nodes": 12,
+      "generated_nodes": 18,
+      "heap_pops": 13,
+      "stale_pops": 0,
+      "reopened_nodes": 0,
+      "frontier_peak": 6,
+      "recursive_visits": 0,
+      "leaf_evaluations": 0,
+      "cutoffs": 0,
+      "pruned_children": 0,
+      "ordering_probes": 0
+    }
+  },
+  {
+    "from_index": 0,
+    "to_index": 3,
+    "cost": 4,
+    "path": [
+      [
+        0,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        2,
+        0
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        2
+      ]
+    ],
+    "metrics": {
+      "expanded_nodes": 6,
+      "generated_nodes": 9,
+      "heap_pops": 7,
+      "stale_pops": 0,
+      "reopened_nodes": 0,
+      "frontier_peak": 3,
+      "recursive_visits": 0,
+      "leaf_evaluations": 0,
+      "cutoffs": 0,
+      "pruned_children": 0,
+      "ordering_probes": 0
+    }
+  },
+  {
+    "from_index": 0,
+    "to_index": 4,
+    "cost": 8,
+    "path": [
+      [
+        0,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        2,
+        0
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        4,
+        1
+      ],
+      [
+        4,
+        2
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        4
+      ]
+    ],
+    "metrics": {
+      "expanded_nodes": 13,
+      "generated_nodes": 20,
+      "heap_pops": 14,
+      "stale_pops": 0,
+      "reopened_nodes": 0,
+      "frontier_peak": 7,
+      "recursive_visits": 0,
+      "leaf_evaluations": 0,
+      "cutoffs": 0,
+      "pruned_children": 0,
+      "ordering_probes": 0
+    }
+  },
+  {
+    "from_index": 0,
+    "to_index": 5,
+    "cost": 8,
+    "path": [
+      [
+        0,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        2,
+        0
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        4,
+        1
+      ],
+      [
+        4,
+        0
+      ],
+      [
+        5,
+        0
+      ],
+      [
+        6,
+        0
+      ]
+    ],
+    "metrics": {
+      "expanded_nodes": 8,
+      "generated_nodes": 12,
+      "heap_pops": 9,
+      "stale_pops": 0,
+      "reopened_nodes": 0,
+      "frontier_peak": 4,
+      "recursive_visits": 0,
+      "leaf_evaluations": 0,
+      "cutoffs": 0,
+      "pruned_children": 0,
+      "ordering_probes": 0
+    }
+  },
+  {
+    "from_index": 1,
+    "to_index": 0,
+    "cost": 12,
+    "path": [
+      [
+        6,
+        6
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        4,
+        4
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        2
+      ],
+      [
+        4,
+        1
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ],
+    "metrics": {
+      "expanded_nodes": 13,
+      "generated_nodes": 20,
+      "heap_pops": 14,
+      "stale_pops": 0,
+      "reopened_nodes": 0,
+      "frontier_peak": 7,
+      "recursive_visits": 0,
+      "leaf_evaluations": 0,
+      "cutoffs": 0,
+      "pruned_children": 0,
+      "ordering_probes": 0
+    }
+  },
+  {
+    "from_index": 1,
+    "to_index": 1,
+    "cost": 0,
+    "path": [
+      [
+        6,
+        6
+      ]
+    ],
+    "metrics": {
+      "expanded_nodes": 0,
+      "generated_nodes": 1,
+      "heap_pops": 1,
+      "stale_pops": 0,
+      "reopened_nodes": 0,
+      "frontier_peak": 1,
+      "recursive_visits": 0,
+      "leaf_evaluations": 0,
+      "cutoffs": 0,
+      "pruned_children": 0,
+      "ordering_probes": 0
+    }
+  },
+  {
+    "from_index": 1,
+    "to_index": 2,
+    "cost": 8,
+    "path": [
+      [
+        6,
+        6
+      ],
+      [
+        5,
+        6
+      ],
+      [
+        4,
+        6
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        3,
+        5
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        2,
+        6
+      ],
+      [
+        1,
+        6
+      ],
+      [
+        0,
+        6
+      ]
+    ],
+    "metrics": {
+      "expanded_nodes": 8,
+      "generated_nodes": 12,
+      "heap_pops": 9,
+      "stale_pops": 0,
+      "reopened_nodes": 0,
+      "frontier_peak": 4,
+      "recursive_visits": 0,
+      "leaf_evaluations": 0,
+      "cutoffs": 0,
+      "pruned_children": 0,
+      "ordering_probes": 0
+    }
+  },
+  {
+    "from_index": 1,
+    "to_index": 3,
+    "cost": 8,
+    "path": [
+      [
+        6,
+        6
+      ],
+      [
+        5,
+        6
+      ],
+      [
+        4,
+        6
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        3,
+        5
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        2,
+        2
+      ]
+    ],
+    "metrics": {
+      "expanded_nodes": 14,
+      "generated_nodes": 21,
+      "heap_pops": 15,
+      "stale_pops": 0,
+      "reopened_nodes": 0,
+      "frontier_peak": 7,
+      "recursive_visits": 0,
+      "leaf_evaluations": 0,
+      "cutoffs": 0,
+      "pruned_children": 0,
+      "ordering_probes": 0
+    }
+  },
+  {
+    "from_index": 1,
+    "to_index": 4,
+    "cost": 4,
+    "path": [
+      [
+        6,
+        6
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        4,
+        4
+      ]
+    ],
+    "metrics": {
+      "expanded_nodes": 4,
+      "generated_nodes": 6,
+      "heap_pops": 5,
+      "stale_pops": 0,
+      "reopened_nodes": 0,
+      "frontier_peak": 2,
+      "recursive_visits": 0,
+      "leaf_evaluations": 0,
+      "cutoffs": 0,
+      "pruned_children": 0,
+      "ordering_probes": 0
+    }
+  },
+  {
+    "from_index": 1,
+    "to_index": 5,
+    "cost": 10,
+    "path": [
+      [
+        6,
+        6
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        4,
+        4
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        2
+      ],
+      [
+        4,
+        1
+      ],
+      [
+        4,
+        0
+      ],
+      [
+        5,
+        0
+      ],
+      [
+        6,
+        0
+      ]
+    ],
+    "metrics": {
+      "expanded_nodes": 11,
+      "generated_nodes": 17,
+      "heap_pops": 12,
+      "stale_pops": 0,
+      "reopened_nodes": 0,
+      "frontier_peak": 6,
+      "recursive_visits": 0,
+      "leaf_evaluations": 0,
+      "cutoffs": 0,
+      "pruned_children": 0,
+      "ordering_probes": 0
+    }
+  },
+  {
+    "from_index": 2,
+    "to_index": 0,
+    "cost": 10,
+    "path": [
+      [
+        0,
+        6
+      ],
+      [
+        1,
+        6
+      ],
+      [
+        2,
+        6
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        2,
+        2
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ],
+    "metrics": {
+      "expanded_nodes": 13,
+      "generated_nodes": 19,
+      "heap_pops": 14,
+      "stale_pops": 0,
+      "reopened_nodes": 0,
+      "frontier_peak": 6,
+      "recursive_visits": 0,
+      "leaf_evaluations": 0,
+      "cutoffs": 0,
+      "pruned_children": 0,
+      "ordering_probes": 0
+    }
+  },
+  {
+    "from_index": 2,
+    "to_index": 1,
+    "cost": 8,
+    "path": [
+      [
+        0,
+        6
+      ],
+      [
+        1,
+        6
+      ],
+      [
+        2,
+        6
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        5
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        4,
+        6
+      ],
+      [
+        5,
+        6
+      ],
+      [
+        6,
+        6
+      ]
+    ],
+    "metrics": {
+      "expanded_nodes": 8,
+      "generated_nodes": 12,
+      "heap_pops": 9,
+      "stale_pops": 0,
+      "reopened_nodes": 0,
+      "frontier_peak": 4,
+      "recursive_visits": 0,
+      "leaf_evaluations": 0,
+      "cutoffs": 0,
+      "pruned_children": 0,
+      "ordering_probes": 0
+    }
+  },
+  {
+    "from_index": 2,
+    "to_index": 2,
+    "cost": 0,
+    "path": [
+      [
+        0,
+        6
+      ]
+    ],
+    "metrics": {
+      "expanded_nodes": 0,
+      "generated_nodes": 1,
+      "heap_pops": 1,
+      "stale_pops": 0,
+      "reopened_nodes": 0,
+      "frontier_peak": 1,
+      "recursive_visits": 0,
+      "leaf_evaluations": 0,
+      "cutoffs": 0,
+      "pruned_children": 0,
+      "ordering_probes": 0
+    }
+  },
+  {
+    "from_index": 2,
+    "to_index": 3,
+    "cost": 6,
+    "path": [
+      [
+        0,
+        6
+      ],
+      [
+        1,
+        6
+      ],
+      [
+        2,
+        6
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        2,
+        2
+      ]
+    ],
+    "metrics": {
+      "expanded_nodes": 6,
+      "generated_nodes": 11,
+      "heap_pops": 7,
+      "stale_pops": 0,
+      "reopened_nodes": 0,
+      "frontier_peak": 5,
+      "recursive_visits": 0,
+      "leaf_evaluations": 0,
+      "cutoffs": 0,
+      "pruned_children": 0,
+      "ordering_probes": 0
+    }
+  },
+  {
+    "from_index": 2,
+    "to_index": 4,
+    "cost": 6,
+    "path": [
+      [
+        0,
+        6
+      ],
+      [
+        1,
+        6
+      ],
+      [
+        2,
+        6
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        5
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        4,
+        4
+      ]
+    ],
+    "metrics": {
+      "expanded_nodes": 6,
+      "generated_nodes": 10,
+      "heap_pops": 7,
+      "stale_pops": 0,
+      "reopened_nodes": 0,
+      "frontier_peak": 4,
+      "recursive_visits": 0,
+      "leaf_evaluations": 0,
+      "cutoffs": 0,
+      "pruned_children": 0,
+      "ordering_probes": 0
+    }
+  },
+  {
+    "from_index": 2,
+    "to_index": 5,
+    "cost": 12,
+    "path": [
+      [
+        0,
+        6
+      ],
+      [
+        1,
+        6
+      ],
+      [
+        2,
+        6
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        5
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        4,
+        4
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        2
+      ],
+      [
+        4,
+        1
+      ],
+      [
+        4,
+        0
+      ],
+      [
+        5,
+        0
+      ],
+      [
+        6,
+        0
+      ]
+    ],
+    "metrics": {
+      "expanded_nodes": 14,
+      "generated_nodes": 22,
+      "heap_pops": 15,
+      "stale_pops": 0,
+      "reopened_nodes": 0,
+      "frontier_peak": 8,
+      "recursive_visits": 0,
+      "leaf_evaluations": 0,
+      "cutoffs": 0,
+      "pruned_children": 0,
+      "ordering_probes": 0
+    }
+  },
+  {
+    "from_index": 3,
+    "to_index": 0,
+    "cost": 4,
+    "path": [
+      [
+        2,
+        2
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ],
+    "metrics": {
+      "expanded_nodes": 4,
+      "generated_nodes": 8,
+      "heap_pops": 5,
+      "stale_pops": 0,
+      "reopened_nodes": 0,
+      "frontier_peak": 4,
+      "recursive_visits": 0,
+      "leaf_evaluations": 0,
+      "cutoffs": 0,
+      "pruned_children": 0,
+      "ordering_probes": 0
+    }
+  },
+  {
+    "from_index": 3,
+    "to_index": 1,
+    "cost": 8,
+    "path": [
+      [
+        2,
+        2
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        5
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        4,
+        6
+      ],
+      [
+        5,
+        6
+      ],
+      [
+        6,
+        6
+      ]
+    ],
+    "metrics": {
+      "expanded_nodes": 9,
+      "generated_nodes": 16,
+      "heap_pops": 10,
+      "stale_pops": 0,
+      "reopened_nodes": 0,
+      "frontier_peak": 7,
+      "recursive_visits": 0,
+      "leaf_evaluations": 0,
+      "cutoffs": 0,
+      "pruned_children": 0,
+      "ordering_probes": 0
+    }
+  },
+  {
+    "from_index": 3,
+    "to_index": 2,
+    "cost": 6,
+    "path": [
+      [
+        2,
+        2
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        2,
+        6
+      ],
+      [
+        1,
+        6
+      ],
+      [
+        0,
+        6
+      ]
+    ],
+    "metrics": {
+      "expanded_nodes": 6,
+      "generated_nodes": 12,
+      "heap_pops": 7,
+      "stale_pops": 0,
+      "reopened_nodes": 0,
+      "frontier_peak": 6,
+      "recursive_visits": 0,
+      "leaf_evaluations": 0,
+      "cutoffs": 0,
+      "pruned_children": 0,
+      "ordering_probes": 0
+    }
+  },
+  {
+    "from_index": 3,
+    "to_index": 3,
+    "cost": 0,
+    "path": [
+      [
+        2,
+        2
+      ]
+    ],
+    "metrics": {
+      "expanded_nodes": 0,
+      "generated_nodes": 1,
+      "heap_pops": 1,
+      "stale_pops": 0,
+      "reopened_nodes": 0,
+      "frontier_peak": 1,
+      "recursive_visits": 0,
+      "leaf_evaluations": 0,
+      "cutoffs": 0,
+      "pruned_children": 0,
+      "ordering_probes": 0
+    }
+  },
+  {
+    "from_index": 3,
+    "to_index": 4,
+    "cost": 6,
+    "path": [
+      [
+        2,
+        2
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        5
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        4,
+        4
+      ]
+    ],
+    "metrics": {
+      "expanded_nodes": 6,
+      "generated_nodes": 13,
+      "heap_pops": 7,
+      "stale_pops": 0,
+      "reopened_nodes": 0,
+      "frontier_peak": 7,
+      "recursive_visits": 0,
+      "leaf_evaluations": 0,
+      "cutoffs": 0,
+      "pruned_children": 0,
+      "ordering_probes": 0
+    }
+  },
+  {
+    "from_index": 3,
+    "to_index": 5,
+    "cost": 6,
+    "path": [
+      [
+        2,
+        2
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        4,
+        1
+      ],
+      [
+        4,
+        0
+      ],
+      [
+        5,
+        0
+      ],
+      [
+        6,
+        0
+      ]
+    ],
+    "metrics": {
+      "expanded_nodes": 6,
+      "generated_nodes": 11,
+      "heap_pops": 7,
+      "stale_pops": 0,
+      "reopened_nodes": 0,
+      "frontier_peak": 5,
+      "recursive_visits": 0,
+      "leaf_evaluations": 0,
+      "cutoffs": 0,
+      "pruned_children": 0,
+      "ordering_probes": 0
+    }
+  },
+  {
+    "from_index": 4,
+    "to_index": 0,
+    "cost": 8,
+    "path": [
+      [
+        4,
+        4
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        2
+      ],
+      [
+        4,
+        1
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ],
+    "metrics": {
+      "expanded_nodes": 9,
+      "generated_nodes": 16,
+      "heap_pops": 10,
+      "stale_pops": 0,
+      "reopened_nodes": 0,
+      "frontier_peak": 7,
+      "recursive_visits": 0,
+      "leaf_evaluations": 0,
+      "cutoffs": 0,
+      "pruned_children": 0,
+      "ordering_probes": 0
+    }
+  },
+  {
+    "from_index": 4,
+    "to_index": 1,
+    "cost": 4,
+    "path": [
+      [
+        4,
+        4
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        4,
+        6
+      ],
+      [
+        5,
+        6
+      ],
+      [
+        6,
+        6
+      ]
+    ],
+    "metrics": {
+      "expanded_nodes": 4,
+      "generated_nodes": 8,
+      "heap_pops": 5,
+      "stale_pops": 0,
+      "reopened_nodes": 0,
+      "frontier_peak": 4,
+      "recursive_visits": 0,
+      "leaf_evaluations": 0,
+      "cutoffs": 0,
+      "pruned_children": 0,
+      "ordering_probes": 0
+    }
+  },
+  {
+    "from_index": 4,
+    "to_index": 2,
+    "cost": 6,
+    "path": [
+      [
+        4,
+        4
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        3,
+        5
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        2,
+        6
+      ],
+      [
+        1,
+        6
+      ],
+      [
+        0,
+        6
+      ]
+    ],
+    "metrics": {
+      "expanded_nodes": 7,
+      "generated_nodes": 12,
+      "heap_pops": 8,
+      "stale_pops": 0,
+      "reopened_nodes": 0,
+      "frontier_peak": 5,
+      "recursive_visits": 0,
+      "leaf_evaluations": 0,
+      "cutoffs": 0,
+      "pruned_children": 0,
+      "ordering_probes": 0
+    }
+  },
+  {
+    "from_index": 4,
+    "to_index": 3,
+    "cost": 6,
+    "path": [
+      [
+        4,
+        4
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        2
+      ],
+      [
+        4,
+        1
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        2
+      ]
+    ],
+    "metrics": {
+      "expanded_nodes": 6,
+      "generated_nodes": 13,
+      "heap_pops": 7,
+      "stale_pops": 0,
+      "reopened_nodes": 0,
+      "frontier_peak": 7,
+      "recursive_visits": 0,
+      "leaf_evaluations": 0,
+      "cutoffs": 0,
+      "pruned_children": 0,
+      "ordering_probes": 0
+    }
+  },
+  {
+    "from_index": 4,
+    "to_index": 4,
+    "cost": 0,
+    "path": [
+      [
+        4,
+        4
+      ]
+    ],
+    "metrics": {
+      "expanded_nodes": 0,
+      "generated_nodes": 1,
+      "heap_pops": 1,
+      "stale_pops": 0,
+      "reopened_nodes": 0,
+      "frontier_peak": 1,
+      "recursive_visits": 0,
+      "leaf_evaluations": 0,
+      "cutoffs": 0,
+      "pruned_children": 0,
+      "ordering_probes": 0
+    }
+  },
+  {
+    "from_index": 4,
+    "to_index": 5,
+    "cost": 6,
+    "path": [
+      [
+        4,
+        4
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        2
+      ],
+      [
+        4,
+        1
+      ],
+      [
+        4,
+        0
+      ],
+      [
+        5,
+        0
+      ],
+      [
+        6,
+        0
+      ]
+    ],
+    "metrics": {
+      "expanded_nodes": 8,
+      "generated_nodes": 14,
+      "heap_pops": 9,
+      "stale_pops": 0,
+      "reopened_nodes": 0,
+      "frontier_peak": 6,
+      "recursive_visits": 0,
+      "leaf_evaluations": 0,
+      "cutoffs": 0,
+      "pruned_children": 0,
+      "ordering_probes": 0
+    }
+  },
+  {
+    "from_index": 5,
+    "to_index": 0,
+    "cost": 8,
+    "path": [
+      [
+        6,
+        0
+      ],
+      [
+        5,
+        0
+      ],
+      [
+        4,
+        0
+      ],
+      [
+        4,
+        1
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ],
+    "metrics": {
+      "expanded_nodes": 8,
+      "generated_nodes": 12,
+      "heap_pops": 9,
+      "stale_pops": 0,
+      "reopened_nodes": 0,
+      "frontier_peak": 4,
+      "recursive_visits": 0,
+      "leaf_evaluations": 0,
+      "cutoffs": 0,
+      "pruned_children": 0,
+      "ordering_probes": 0
+    }
+  },
+  {
+    "from_index": 5,
+    "to_index": 1,
+    "cost": 10,
+    "path": [
+      [
+        6,
+        0
+      ],
+      [
+        5,
+        0
+      ],
+      [
+        4,
+        0
+      ],
+      [
+        4,
+        1
+      ],
+      [
+        4,
+        2
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        4
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        4,
+        6
+      ],
+      [
+        5,
+        6
+      ],
+      [
+        6,
+        6
+      ]
+    ],
+    "metrics": {
+      "expanded_nodes": 12,
+      "generated_nodes": 18,
+      "heap_pops": 13,
+      "stale_pops": 0,
+      "reopened_nodes": 0,
+      "frontier_peak": 6,
+      "recursive_visits": 0,
+      "leaf_evaluations": 0,
+      "cutoffs": 0,
+      "pruned_children": 0,
+      "ordering_probes": 0
+    }
+  },
+  {
+    "from_index": 5,
+    "to_index": 2,
+    "cost": 12,
+    "path": [
+      [
+        6,
+        0
+      ],
+      [
+        5,
+        0
+      ],
+      [
+        4,
+        0
+      ],
+      [
+        4,
+        1
+      ],
+      [
+        4,
+        2
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        4
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        3,
+        5
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        2,
+        6
+      ],
+      [
+        1,
+        6
+      ],
+      [
+        0,
+        6
+      ]
+    ],
+    "metrics": {
+      "expanded_nodes": 15,
+      "generated_nodes": 22,
+      "heap_pops": 16,
+      "stale_pops": 0,
+      "reopened_nodes": 0,
+      "frontier_peak": 7,
+      "recursive_visits": 0,
+      "leaf_evaluations": 0,
+      "cutoffs": 0,
+      "pruned_children": 0,
+      "ordering_probes": 0
+    }
+  },
+  {
+    "from_index": 5,
+    "to_index": 3,
+    "cost": 6,
+    "path": [
+      [
+        6,
+        0
+      ],
+      [
+        5,
+        0
+      ],
+      [
+        4,
+        0
+      ],
+      [
+        4,
+        1
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        2
+      ]
+    ],
+    "metrics": {
+      "expanded_nodes": 9,
+      "generated_nodes": 13,
+      "heap_pops": 10,
+      "stale_pops": 0,
+      "reopened_nodes": 0,
+      "frontier_peak": 4,
+      "recursive_visits": 0,
+      "leaf_evaluations": 0,
+      "cutoffs": 0,
+      "pruned_children": 0,
+      "ordering_probes": 0
+    }
+  },
+  {
+    "from_index": 5,
+    "to_index": 4,
+    "cost": 6,
+    "path": [
+      [
+        6,
+        0
+      ],
+      [
+        5,
+        0
+      ],
+      [
+        4,
+        0
+      ],
+      [
+        4,
+        1
+      ],
+      [
+        4,
+        2
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        4
+      ]
+    ],
+    "metrics": {
+      "expanded_nodes": 8,
+      "generated_nodes": 12,
+      "heap_pops": 9,
+      "stale_pops": 0,
+      "reopened_nodes": 0,
+      "frontier_peak": 4,
+      "recursive_visits": 0,
+      "leaf_evaluations": 0,
+      "cutoffs": 0,
+      "pruned_children": 0,
+      "ordering_probes": 0
+    }
+  },
+  {
+    "from_index": 5,
+    "to_index": 5,
+    "cost": 0,
+    "path": [
+      [
+        6,
+        0
+      ]
+    ],
+    "metrics": {
+      "expanded_nodes": 0,
+      "generated_nodes": 1,
+      "heap_pops": 1,
+      "stale_pops": 0,
+      "reopened_nodes": 0,
+      "frontier_peak": 1,
+      "recursive_visits": 0,
+      "leaf_evaluations": 0,
+      "cutoffs": 0,
+      "pruned_children": 0,
+      "ordering_probes": 0
+    }
+  }
+]

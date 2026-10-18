@@ -1,0 +1,11 @@
+{
+  "seed": 20261015,
+  "repeats": 11,
+  "warmups": 2,
+  "target_batch_ms": 5,
+  "max_batch_iterations": 1000,
+  "heuristics": ["zero", "manhattan", "relaxed"],
+  "tie_breaks": ["fifo", "larger_g", "smaller_g"],
+  "orders": ["original", "reverse", "heuristic"],
+  "game_depths": [2,4]
+}

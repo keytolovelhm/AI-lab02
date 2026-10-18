@@ -1,0 +1,113 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1125" viewBox="0 0 1000 1125">
+<rect width="100%" height="100%" fill="#fafbfd"/>
+<text x="28" y="35" fill="#263445" font-size="22" text-anchor="start" font-family="Arial, sans-serif">Game search: leaf evaluations</text>
+<text x="28" y="62" fill="#263445" font-size="13" text-anchor="start" font-family="Arial, sans-serif">Independent scale per scenario. nodes; timing whiskers = 25th-75th percentile.</text>
+<text x="28" y="100" fill="#263445" font-size="16" text-anchor="start" font-family="Arial, sans-serif">pdf_tree</text>
+<text x="870" y="100" fill="#263445" font-size="11" text-anchor="end" font-family="Arial, sans-serif">panel max: 8.0 nodes</text>
+<text x="253" y="134" fill="#263445" font-size="12" text-anchor="end" font-family="Arial, sans-serif">MM/original</text>
+<rect x="265" y="118" width="605" height="22" fill="#e8edf2"/>
+<rect x="265" y="118" width="605.000" height="22" fill="#53799d"><title>MM/original: 8</title></rect>
+<text x="882" y="134" fill="#263445" font-size="12" text-anchor="start" font-family="Arial, sans-serif">8</text>
+<text x="253" y="164" fill="#263445" font-size="12" text-anchor="end" font-family="Arial, sans-serif">AB/original</text>
+<rect x="265" y="148" width="605" height="22" fill="#e8edf2"/>
+<rect x="265" y="148" width="529.375" height="22" fill="#178575"><title>AB/original: 7</title></rect>
+<text x="882" y="164" fill="#263445" font-size="12" text-anchor="start" font-family="Arial, sans-serif">7</text>
+<text x="253" y="194" fill="#263445" font-size="12" text-anchor="end" font-family="Arial, sans-serif">AB/reverse</text>
+<rect x="265" y="178" width="605" height="22" fill="#e8edf2"/>
+<rect x="265" y="178" width="529.375" height="22" fill="#df8844"><title>AB/reverse: 7</title></rect>
+<text x="882" y="194" fill="#263445" font-size="12" text-anchor="start" font-family="Arial, sans-serif">7</text>
+<text x="253" y="224" fill="#263445" font-size="12" text-anchor="end" font-family="Arial, sans-serif">AB/heuristic</text>
+<rect x="265" y="208" width="605" height="22" fill="#e8edf2"/>
+<rect x="265" y="208" width="378.125" height="22" fill="#8766b2"><title>AB/heuristic: 5</title></rect>
+<text x="882" y="224" fill="#263445" font-size="12" text-anchor="start" font-family="Arial, sans-serif">5</text>
+<text x="28" y="270" fill="#263445" font-size="16" text-anchor="start" font-family="Arial, sans-serif">random_tree_a</text>
+<text x="870" y="270" fill="#263445" font-size="11" text-anchor="end" font-family="Arial, sans-serif">panel max: 1,024.0 nodes</text>
+<text x="253" y="304" fill="#263445" font-size="12" text-anchor="end" font-family="Arial, sans-serif">MM/original</text>
+<rect x="265" y="288" width="605" height="22" fill="#e8edf2"/>
+<rect x="265" y="288" width="605.000" height="22" fill="#53799d"><title>MM/original: 1024</title></rect>
+<text x="882" y="304" fill="#263445" font-size="12" text-anchor="start" font-family="Arial, sans-serif">1,024</text>
+<text x="253" y="334" fill="#263445" font-size="12" text-anchor="end" font-family="Arial, sans-serif">AB/original</text>
+<rect x="265" y="318" width="605" height="22" fill="#e8edf2"/>
+<rect x="265" y="318" width="213.286" height="22" fill="#178575"><title>AB/original: 361</title></rect>
+<text x="882" y="334" fill="#263445" font-size="12" text-anchor="start" font-family="Arial, sans-serif">361</text>
+<text x="253" y="364" fill="#263445" font-size="12" text-anchor="end" font-family="Arial, sans-serif">AB/reverse</text>
+<rect x="265" y="348" width="605" height="22" fill="#e8edf2"/>
+<rect x="265" y="348" width="253.462" height="22" fill="#df8844"><title>AB/reverse: 429</title></rect>
+<text x="882" y="364" fill="#263445" font-size="12" text-anchor="start" font-family="Arial, sans-serif">429</text>
+<text x="253" y="394" fill="#263445" font-size="12" text-anchor="end" font-family="Arial, sans-serif">AB/heuristic</text>
+<rect x="265" y="378" width="605" height="22" fill="#e8edf2"/>
+<rect x="265" y="378" width="101.621" height="22" fill="#8766b2"><title>AB/heuristic: 172</title></rect>
+<text x="882" y="394" fill="#263445" font-size="12" text-anchor="start" font-family="Arial, sans-serif">172</text>
+<text x="28" y="440" fill="#263445" font-size="16" text-anchor="start" font-family="Arial, sans-serif">random_tree_b</text>
+<text x="870" y="440" fill="#263445" font-size="11" text-anchor="end" font-family="Arial, sans-serif">panel max: 1,024.0 nodes</text>
+<text x="253" y="474" fill="#263445" font-size="12" text-anchor="end" font-family="Arial, sans-serif">MM/original</text>
+<rect x="265" y="458" width="605" height="22" fill="#e8edf2"/>
+<rect x="265" y="458" width="605.000" height="22" fill="#53799d"><title>MM/original: 1024</title></rect>
+<text x="882" y="474" fill="#263445" font-size="12" text-anchor="start" font-family="Arial, sans-serif">1,024</text>
+<text x="253" y="504" fill="#263445" font-size="12" text-anchor="end" font-family="Arial, sans-serif">AB/original</text>
+<rect x="265" y="488" width="605" height="22" fill="#e8edf2"/>
+<rect x="265" y="488" width="199.106" height="22" fill="#178575"><title>AB/original: 337</title></rect>
+<text x="882" y="504" fill="#263445" font-size="12" text-anchor="start" font-family="Arial, sans-serif">337</text>
+<text x="253" y="534" fill="#263445" font-size="12" text-anchor="end" font-family="Arial, sans-serif">AB/reverse</text>
+<rect x="265" y="518" width="605" height="22" fill="#e8edf2"/>
+<rect x="265" y="518" width="241.646" height="22" fill="#df8844"><title>AB/reverse: 409</title></rect>
+<text x="882" y="534" fill="#263445" font-size="12" text-anchor="start" font-family="Arial, sans-serif">409</text>
+<text x="253" y="564" fill="#263445" font-size="12" text-anchor="end" font-family="Arial, sans-serif">AB/heuristic</text>
+<rect x="265" y="548" width="605" height="22" fill="#e8edf2"/>
+<rect x="265" y="548" width="114.028" height="22" fill="#8766b2"><title>AB/heuristic: 193</title></rect>
+<text x="882" y="564" fill="#263445" font-size="12" text-anchor="start" font-family="Arial, sans-serif">193</text>
+<text x="28" y="610" fill="#263445" font-size="16" text-anchor="start" font-family="Arial, sans-serif">equal_leaves</text>
+<text x="870" y="610" fill="#263445" font-size="11" text-anchor="end" font-family="Arial, sans-serif">panel max: 256.0 nodes</text>
+<text x="253" y="644" fill="#263445" font-size="12" text-anchor="end" font-family="Arial, sans-serif">MM/original</text>
+<rect x="265" y="628" width="605" height="22" fill="#e8edf2"/>
+<rect x="265" y="628" width="605.000" height="22" fill="#53799d"><title>MM/original: 256</title></rect>
+<text x="882" y="644" fill="#263445" font-size="12" text-anchor="start" font-family="Arial, sans-serif">256</text>
+<text x="253" y="674" fill="#263445" font-size="12" text-anchor="end" font-family="Arial, sans-serif">AB/original</text>
+<rect x="265" y="658" width="605" height="22" fill="#e8edf2"/>
+<rect x="265" y="658" width="73.262" height="22" fill="#178575"><title>AB/original: 31</title></rect>
+<text x="882" y="674" fill="#263445" font-size="12" text-anchor="start" font-family="Arial, sans-serif">31</text>
+<text x="253" y="704" fill="#263445" font-size="12" text-anchor="end" font-family="Arial, sans-serif">AB/reverse</text>
+<rect x="265" y="688" width="605" height="22" fill="#e8edf2"/>
+<rect x="265" y="688" width="73.262" height="22" fill="#df8844"><title>AB/reverse: 31</title></rect>
+<text x="882" y="704" fill="#263445" font-size="12" text-anchor="start" font-family="Arial, sans-serif">31</text>
+<text x="253" y="734" fill="#263445" font-size="12" text-anchor="end" font-family="Arial, sans-serif">AB/heuristic</text>
+<rect x="265" y="718" width="605" height="22" fill="#e8edf2"/>
+<rect x="265" y="718" width="73.262" height="22" fill="#8766b2"><title>AB/heuristic: 31</title></rect>
+<text x="882" y="734" fill="#263445" font-size="12" text-anchor="start" font-family="Arial, sans-serif">31</text>
+<text x="28" y="780" fill="#263445" font-size="16" text-anchor="start" font-family="Arial, sans-serif">treasure_H2</text>
+<text x="870" y="780" fill="#263445" font-size="11" text-anchor="end" font-family="Arial, sans-serif">panel max: 12.0 nodes</text>
+<text x="253" y="814" fill="#263445" font-size="12" text-anchor="end" font-family="Arial, sans-serif">MM/original</text>
+<rect x="265" y="798" width="605" height="22" fill="#e8edf2"/>
+<rect x="265" y="798" width="605.000" height="22" fill="#53799d"><title>MM/original: 12</title></rect>
+<text x="882" y="814" fill="#263445" font-size="12" text-anchor="start" font-family="Arial, sans-serif">12</text>
+<text x="253" y="844" fill="#263445" font-size="12" text-anchor="end" font-family="Arial, sans-serif">AB/original</text>
+<rect x="265" y="828" width="605" height="22" fill="#e8edf2"/>
+<rect x="265" y="828" width="403.333" height="22" fill="#178575"><title>AB/original: 8</title></rect>
+<text x="882" y="844" fill="#263445" font-size="12" text-anchor="start" font-family="Arial, sans-serif">8</text>
+<text x="253" y="874" fill="#263445" font-size="12" text-anchor="end" font-family="Arial, sans-serif">AB/reverse</text>
+<rect x="265" y="858" width="605" height="22" fill="#e8edf2"/>
+<rect x="265" y="858" width="554.583" height="22" fill="#df8844"><title>AB/reverse: 11</title></rect>
+<text x="882" y="874" fill="#263445" font-size="12" text-anchor="start" font-family="Arial, sans-serif">11</text>
+<text x="253" y="904" fill="#263445" font-size="12" text-anchor="end" font-family="Arial, sans-serif">AB/heuristic</text>
+<rect x="265" y="888" width="605" height="22" fill="#e8edf2"/>
+<rect x="265" y="888" width="302.500" height="22" fill="#8766b2"><title>AB/heuristic: 6</title></rect>
+<text x="882" y="904" fill="#263445" font-size="12" text-anchor="start" font-family="Arial, sans-serif">6</text>
+<text x="28" y="950" fill="#263445" font-size="16" text-anchor="start" font-family="Arial, sans-serif">treasure_H4</text>
+<text x="870" y="950" fill="#263445" font-size="11" text-anchor="end" font-family="Arial, sans-serif">panel max: 24.0 nodes</text>
+<text x="253" y="984" fill="#263445" font-size="12" text-anchor="end" font-family="Arial, sans-serif">MM/original</text>
+<rect x="265" y="968" width="605" height="22" fill="#e8edf2"/>
+<rect x="265" y="968" width="605.000" height="22" fill="#53799d"><title>MM/original: 24</title></rect>
+<text x="882" y="984" fill="#263445" font-size="12" text-anchor="start" font-family="Arial, sans-serif">24</text>
+<text x="253" y="1014" fill="#263445" font-size="12" text-anchor="end" font-family="Arial, sans-serif">AB/original</text>
+<rect x="265" y="998" width="605" height="22" fill="#e8edf2"/>
+<rect x="265" y="998" width="403.333" height="22" fill="#178575"><title>AB/original: 16</title></rect>
+<text x="882" y="1014" fill="#263445" font-size="12" text-anchor="start" font-family="Arial, sans-serif">16</text>
+<text x="253" y="1044" fill="#263445" font-size="12" text-anchor="end" font-family="Arial, sans-serif">AB/reverse</text>
+<rect x="265" y="1028" width="605" height="22" fill="#e8edf2"/>
+<rect x="265" y="1028" width="403.333" height="22" fill="#df8844"><title>AB/reverse: 16</title></rect>
+<text x="882" y="1044" fill="#263445" font-size="12" text-anchor="start" font-family="Arial, sans-serif">16</text>
+<text x="253" y="1074" fill="#263445" font-size="12" text-anchor="end" font-family="Arial, sans-serif">AB/heuristic</text>
+<rect x="265" y="1058" width="605" height="22" fill="#e8edf2"/>
+<rect x="265" y="1058" width="302.500" height="22" fill="#8766b2"><title>AB/heuristic: 12</title></rect>
+<text x="882" y="1074" fill="#263445" font-size="12" text-anchor="start" font-family="Arial, sans-serif">12</text>
+</svg>

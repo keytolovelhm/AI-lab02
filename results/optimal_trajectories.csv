@@ -1,0 +1,7 @@
+﻿depth,step,player,from,target,gain,score_a,score_b,utility
+2,1,A,A,T2,2,2,0,2
+2,2,B,B,T3,3,2,3,-1
+4,1,A,A,T3,-1,-1,0,-1
+4,2,B,B,T1,1,-1,1,-2
+4,3,A,T3,T2,0,-1,1,-2
+4,4,B,T1,T4,-5,-1,-4,3
