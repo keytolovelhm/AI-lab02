@@ -1,6 +1,6 @@
-# AI-Search-Lab2
+# README
 
-《当代人工智能》实验二：使用 Python 标准库实现 A*、Minimax、Alpha-Beta，并在加权地形与竞争宝藏分配中比较正确性和搜索效率。题面样例已保存为独立 JSON，运行无需原课程 PDF。
+实验二：使用 Python 标准库实现 A*、Minimax、Alpha-Beta，并在加权地形与竞争宝藏分配中比较正确性和搜索效率。
 
 ## 四道题与标准结果
 
